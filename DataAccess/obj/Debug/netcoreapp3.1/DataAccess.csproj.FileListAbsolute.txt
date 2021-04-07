@@ -1,0 +1,5 @@
+C:\Users\gozpulat\source\repos\NorthwindBackend\DataAccess\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\gozpulat\source\repos\NorthwindBackend\DataAccess\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\gozpulat\source\repos\NorthwindBackend\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\gozpulat\source\repos\NorthwindBackend\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\gozpulat\source\repos\NorthwindBackend\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
